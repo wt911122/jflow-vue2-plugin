@@ -1,7 +1,7 @@
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@jflow/core')) :
   typeof define === 'function' && define.amd ? define(['exports', '@jflow/core'], factory) :
-  (global = typeof globalThis !== 'undefined' ? globalThis : global || self, factory(global["jflow-vue2-plugin"] = {}, global.JFlowInstance$1));
+  (global = typeof globalThis !== 'undefined' ? globalThis : global || self, factory(global["jflow-vue2-plugin"] = {}, global.jflow));
 })(this, (function (exports, JFlowInstance$1) { 'use strict';
 
   function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }

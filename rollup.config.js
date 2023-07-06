@@ -11,7 +11,7 @@ export default {
         name: 'jflow-vue2-plugin', // 全局变量名称，用于在浏览器环境中使用.
         globals: {
             vue: 'vue',
-            '@joskii/jflow': 'jflow'
+            '@jflow/core': 'jflow'
         }
     },
     plugins: [
@@ -21,5 +21,5 @@ export default {
             exclude: 'node_modules/**' // 只对源代码进行转译
         }),
     ],
-    external: ['vue', '@joskii/jflow'] // 将 vue 和 @joskii/jflow 设置为外部依赖
+    external: ['vue', '@jflow/core'] // 将 vue 和 @joskii/jflow 设置为外部依赖
 };
