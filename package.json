@@ -1,6 +1,6 @@
 {
   "name": "@joskii/jflow-vue2-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "dist/jflow-vue2-plugin.min.js",
   "module": "dist/jflow-vue2-plugin.es.min.js",
@@ -8,10 +8,10 @@
     "build": "rollup -c"
   },
   "dependencies": {
-    "@joskii/jflow-core": "^0.0.1",
     "object-diff": "0.0.4"
   },
   "peerDependencies": {
+    "@joskii/jflow-core": "^0.0.1",
     "vue": "^2.6.11"
   },
   "author": "",
