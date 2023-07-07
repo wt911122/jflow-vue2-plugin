@@ -1,6 +1,6 @@
 ## install
 ```
-npm i @jflow/core @jflow/vue2-plugin
+npm i @joskii/jflow-core @joskii/jflow-vue2-plugin
 ```
 
 ## use Plugin 
