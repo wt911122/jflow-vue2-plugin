@@ -1,4 +1,4 @@
-import JFlow from '@jflow/core';
+import JFlow from '@joskii/jflow-core';
 import StackMixin from './StackMixin';
 /**
  * typs#slot 中的属性 

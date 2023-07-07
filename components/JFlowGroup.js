@@ -1,4 +1,4 @@
-import * as JFlowInstance from '@jflow/core';
+import * as JFlowInstance from '@joskii/jflow-core';
 import StackMixin from './StackMixin';
 export default function (nameNode) {
     const builder =  typeof nameNode === 'string'

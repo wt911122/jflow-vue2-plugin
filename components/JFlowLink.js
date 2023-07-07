@@ -1,4 +1,4 @@
-import * as JFlowInstance from '@jflow/core';
+import * as JFlowInstance from '@joskii/jflow-core';
 /**
  * JFlow {@link BaseLink} 的 vue 封装 
  * @module jflow-link

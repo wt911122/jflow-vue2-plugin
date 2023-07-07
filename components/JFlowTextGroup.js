@@ -1,4 +1,4 @@
-import { TextGroup } from '@jflow/core';
+import { TextGroup } from '@joskii/jflow-core';
 import StackMixin from './StackMixin';
 
 export default {
