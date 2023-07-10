@@ -1,9 +1,8 @@
 {
   "name": "@joskii/jflow-vue2-plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "dist/jflow-vue2-plugin.min.js",
-  "module": "dist/jflow-vue2-plugin.es.min.js",
   "scripts": {
     "build": "rollup -c"
   },
