@@ -1,6 +1,6 @@
 {
   "name": "@joskii/jflow-vue2-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "dist/jflow-vue2-plugin.min.js",
   "scripts": {
